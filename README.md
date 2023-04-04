@@ -7,6 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/dr_kolawole" target="blank"><img src="https://img.shields.io/twitter/follow/dr_kolawole?logo=twitter&style=for-the-badge" alt="dr_kolawole" /></a> </p>
 
+- I’m currently working **to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
+
+- 🌱 I’m currently learning and improving on **React, Ruby, JS**
+
+- You can find my bootcamp Projects on [(currently only optimized for mobile view](www.paidfast.me)
+
+- 🔭 I’m building a **Twitter clone**
+
 - 👨‍💻 All of my projects are available at [https://troopl.com/kolawoleakinmosin01](https://troopl.com/kolawoleakinmosin01)
 
 - 📫 How to reach me **kolawoleakinmosinofficial@gmail.com**
@@ -23,3 +31,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kolawoleakinmosin&show_icons=true&locale=en&layout=compact" alt="kolawoleakinmosin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kolawoleakinmosin&" alt="kolawoleakinmosin" /></p>
+

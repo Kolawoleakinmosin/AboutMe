@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akinmosin Kolawole Samuel</h1>
-<h3 align="center">A Junior FullStack Engineer and DevOps Engineer</h3>
+<h3 align="center">A FullStack Software Engineer / DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolawoleakinmosin&label=Profile%20views&color=0e75b6&style=flat" alt="kolawoleakinmosin" /> </p>
 
